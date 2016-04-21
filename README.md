@@ -1,4 +1,6 @@
-#SGE_IFRO
+#SGE-IFRO
+
+***Sistema de Gerenciamento de Estágios***
 
 #bla bla
 
